@@ -3,10 +3,5 @@ Hey look, there's text in here now.
 Oops, I got rid of text.
 
 Here's a bunch more!
-	Hello, my name is Carl Geoffrey Huliggen, and I am a hooligan.
-	If you're a hooligan like me, you may have some trouble with people in authority.
-	So today I'm introducing "Huliggen's Hooli-Gone."
-	It's a deodorant that makes people think you're not a hooligan, even though you are.
-	This way, you can have the respect of your teachers and parents without giving up your hooligan-esque tendencies.
-	And it's ONLY two billion payments of three billion dollars each!
-	For more info, call "1-888-555-DONT-TOUCH-THAT."
+
+Just kidding it was stupid, but you can look in the file histories, I'm sure.
