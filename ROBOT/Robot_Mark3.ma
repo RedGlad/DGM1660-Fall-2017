@@ -1,6 +1,6 @@
 //Maya ASCII 2017ff05 scene
 //Name: Robot_Mark3.ma
-//Last modified: Tue, Nov 14, 2017 04:39:16 PM
+//Last modified: Tue, Nov 14, 2017 04:43:09 PM
 //Codeset: 1252
 requires maya "2017ff05";
 requires -nodeType "aiOptions" -nodeType "aiAOVDriver" -nodeType "aiAOVFilter" "mtoa" "1.4.2.3";
@@ -15,13 +15,13 @@ fileInfo "license" "student";
 createNode transform -s -n "persp";
 	rename -uid "9B9C794A-4FCC-9E31-C2B1-ED9AAC45BFCB";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" 0.24117951857112829 3.4232609363835289 14.486341418254931 ;
-	setAttr ".r" -type "double3" -4.5383537038028505 -17640.199999992332 6.212058708218006e-017 ;
+	setAttr ".t" -type "double3" 1.6775767943325792 4.6270745403507485 14.287667270262254 ;
+	setAttr ".r" -type "double3" -8.7383537038054158 -17634.599999991362 -1.4975311030003755e-016 ;
 createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "EB63490F-439C-3043-F713-B7A54C5C9821";
 	setAttr -k off ".v" no;
 	setAttr ".fl" 34.999999999999993;
-	setAttr ".coi" 14.590656120202111;
+	setAttr ".coi" 14.590656120202107;
 	setAttr ".imn" -type "string" "persp";
 	setAttr ".den" -type "string" "persp_depth";
 	setAttr ".man" -type "string" "persp_mask";
