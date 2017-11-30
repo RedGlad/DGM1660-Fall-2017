@@ -1,4 +1,0 @@
-Substance Painter makes texturing a lot easier than doing it by hand in drawing programs, and it’s fun to play around in. I used to hate texturing (I actually used to dislike 3D modeling in general – texturing was just the worst part), but now, texturing has become my favorite part of these projects now that I’ve learned how to use Substance Painter.
-The filters and masks are probably the best part. It’s easy to add details that otherwise would have taken a million years to paint by hand onto a blank texture.
-The default smart materials are also pretty good starting places to mess around with and get ideas. They show off how to use the generators and effects very well, and they’re easy to customize to fit your project.
-Also, I didn’t know what “baking” a texture was before I learned how to do it in Substance Painter. I’d heard the term occasionally before, but never figured out what it meant. Now that I do know, it’s very useful in texturing.
